@@ -1,0 +1,11 @@
+include::_partials/attributes.adoc[]
+
+:context:
+
+= Your Project
+
+Describe your project here.
+
+// tag::excludeDownstream[]
+include::_partials/toc.adoc[]
+// end::excludeDownstream[]
