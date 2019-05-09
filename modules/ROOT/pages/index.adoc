@@ -1,11 +1,78 @@
+// start {partialsdir}/attributes.adoc[]
 include::_partials/attributes.adoc[]
+// end {partialsdir}/attributes.adoc[]
 
-:context:
+[cards]
+====
+Administration::
++
+--
+include::cards/devops.adoc[tags=cards]
+link:cards/devops.html[more...]
+--
+Learning Fuse::
++
+--
+include::cards/learning-fuse.adoc[tags=cards]
+link:cards/learning-fuse.html[more...]
+--
+Learning OpenShift::
++
+--
+Integreatly runs on OpenShift. See 
 
-= Your Project
+* link:https://www.openshift.com/learn/get-started/[Getting Started]
+* link:https://docs.openshift.com/[Documentation]
+--
+Learning AMQ Online::
++
+--
+AMQ is the messaging solution provided with Integreatly:
 
-Describe your project here.
+* link:https://enmasse.io/documentation/[Enmasse Docs]
+--
+====
 
-// tag::excludeDownstream[]
-include::_partials/toc.adoc[]
-// end::excludeDownstream[]
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+
+
+[cards]
+====
+Walkthroughs::
++
+--
+include::cards/walkthroughs.adoc[tags=cards]
+
+link:cards/walthroughs.html[more...]
+
+--
+3scale::
++
+--
+include::cards/3scale.adoc[tags=cards]
+
+link:cards/3scale.html[more...]
+
+--
+Testimonials::
++
+--
+include::cards/testimonials.adoc[tags=cards]
+
+link:cards/testimonials.html[more...]
+
+--
+Community::
++
+--
+--
+====
+
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+

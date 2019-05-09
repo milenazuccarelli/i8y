@@ -1,0 +1,11 @@
+include::../_partials/attributes.adoc[]
+:toc:
+:toclevels: 1
+
+= Introduction to Devops with Integreatly
+
+// tag::cards[]
+A summary of admin tasks, including user management
+// end::cards[]
+
+

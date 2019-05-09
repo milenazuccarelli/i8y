@@ -1,0 +1,13 @@
+include::../_partials/attributes.adoc[]
+:toc:
+:toclevels: 1
+
+= 3scale API management
+
+// tag::cards[]
+Learn about the 3scale.
+// end::cards[]
+
+
+
+

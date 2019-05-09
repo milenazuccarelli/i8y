@@ -1,0 +1,15 @@
+include::../_partials/attributes.adoc[]
+
+= Solution Patterns aka Walkthroughs
+
+// tag::cards[]
+Each walkthrough consists of:
+
+* Asciidoc code
+* A set of tasks the user performs
+* `walkthrough.json` file
+// end::cards[]
+
+
+
+

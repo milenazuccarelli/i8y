@@ -1,6 +1,6 @@
 site:
-  title: Arotna
-  url: http://arotna.org
+  title: Integreatly
+  url: http://finp.github.io/i8y
   start_page: arotna::index 
 content:
   sources:
@@ -10,3 +10,15 @@ ui:
   bundle:
     url: ./ui-bundle.zip
     snapshot: true
+
+asciidoc:
+  extensions:
+  - ./lib/tab-block.js
+  - ./lib/remote-include-processor
+  - ./lib/card-block.js
+
+  attributes:
+    experimental: ''
+    idprefix: ''
+    idseparator: '-'
+    linkattrs: ''

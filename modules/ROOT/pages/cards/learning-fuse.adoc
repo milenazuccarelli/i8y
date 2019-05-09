@@ -1,0 +1,17 @@
+include::../_partials/attributes.adoc[]
+
+= Introduction to learning Fuse
+
+Integreatly includes Fuse Online.
+
+AeroGear allows you develop with the following:
+
+// tag::cards[]
+* link:https://access.redhat.com/announcements/4097241[Announcement]
+* link:https://access.redhat.com/announcements/3557011[Finding docs]
+* link:https://access.redhat.com/documentation/en-us/red_hat_fuse/7.3/html-single/release_notes/[Release Notes]
+// end::cards[]
+
+
+
+
