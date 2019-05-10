@@ -1,0 +1,38 @@
+include::./_partials/attributes.adoc[]
+
+= Solution Patterns aka Walkthroughs
+
+Patterns demonstrated using {PRODUCT} include:
+
+* xref:simple[]
+* xref:deploy[]
+
+[#simple]
+== Simpler is better than easy
+
+Some solutions may offer an easy path to implementation.
+However, in these cases, the user might not fully understand the implications of the solution and only discover their ignorance when the implementation is stressed.
+
+To avoid this, you need to understand all the components of your solution, and why you are using a tool for a particular section.
+
+For example, if you want to chanel a message to a REST API, you might be able to find a solution that provides this, but that solution becomes a unique component in your infrastructure. Over time, expertise is lost and when there's a failure, no one is able to fix it.
+
+[#deploy]
+== Use the same deployment techniques for everything
+
+By using OpenShift, you are making sure all personel are familiar with a single deployment technology, whether it's for development, testing or production. 
+
+
+== Creating your own walkthrough
+
+// tag::cards[]
+Each walkthrough consists of:
+
+* Asciidoc code
+* A set of tasks the user performs
+* `walkthrough.json` file
+// end::cards[]
+
+
+
+

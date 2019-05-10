@@ -44,9 +44,9 @@ AMQ is the messaging solution provided with Integreatly:
 Walkthroughs::
 +
 --
-include::cards/walkthroughs.adoc[tags=cards]
+include::walkthroughs.adoc[tags=cards]
 
-link:cards/walthroughs.html[more...]
+link:walkthroughs.html[more...]
 
 --
 3scale::

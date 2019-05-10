@@ -1,0 +1,28 @@
+[id='gs-adding-custom-idp']
+
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+
+= Adding custom identity providers to {PRODUCT}
+
+By default, {PRODUCT} includes a Single Sign-On solution using Red Hat Single Sign-On (RHSSO).
+This lets users log in to all the middleware services using the same accounts.
+
+RHSSO allows an administrator to use identity brokering for the {PRODUCT} realm.
+
+This section describes how to add a custom identity provider to the Integreatly Single Sign On.
+
+
+.Prerequisite
+You are logged in to OpenShift as the `customer-admin` user.
+
+
+. Log into the RHSSO administration console using the URL and credentials you received in your Welcome email.
+
+. Make sure the `openshift` realm is selected om the top left drop down.
+
+. In the menu navigate to `Identity Providers` and pick a provider from the drop down.
+
+. Follow the instructions in the link:https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.2/html-single/server_administration_guide/index#identity_broker[RHSSO documentation] to add a new identity provider.
+

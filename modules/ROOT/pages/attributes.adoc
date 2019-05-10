@@ -1,5 +1,5 @@
-:PRODUCT: Integreatly
-:PRODUCT_SHORT: Integreatly
+:PRODUCT: Red Hat Managed Integration
+:PRODUCT_SHORT: Managed Integration
 :PRODUCT_INIT: rhmi
 :PRODUCT_INIT_CAP: RHMI
 
