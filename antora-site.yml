@@ -2,7 +2,7 @@ runtime:
   cache_dir: ./.cache/antora
 site:
   title: Integreatly
-  url: http://finp.github.io/i8y
+  url: http://www.scalecomputing.org
   start_page: arotna::index 
 content:
   sources:

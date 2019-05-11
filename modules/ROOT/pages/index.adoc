@@ -19,17 +19,10 @@ link:cards/learning-fuse.html[more...]
 Learning OpenShift::
 +
 --
-Integreatly runs on OpenShift. See 
+Integreatly runs on OpenShift. See
 
 * link:https://www.openshift.com/learn/get-started/[Getting Started]
 * link:https://docs.openshift.com/[Documentation]
---
-Learning AMQ Online::
-+
---
-AMQ is the messaging solution provided with Integreatly:
-
-* link:https://enmasse.io/documentation/[Enmasse Docs]
 --
 ====
 
@@ -64,10 +57,6 @@ include::cards/testimonials.adoc[tags=cards]
 
 link:cards/testimonials.html[more...]
 
---
-Community::
-+
---
 --
 ====
 
