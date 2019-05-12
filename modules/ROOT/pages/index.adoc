@@ -2,21 +2,24 @@
 include::_partials/attributes.adoc[]
 // end {partialsdir}/attributes.adoc[]
 
+
+= Home
+
 [cards]
 ====
-Administration::
+>  What is Integreatly::
 +
 --
-include::cards/devops.adoc[tags=cards]
-link:cards/devops.html[more...]
+include::introduction.adoc[tags=cards]
+link:introduction.html[more...]
 --
-Learning Fuse::
+>  Learning Fuse::
 +
 --
 include::cards/learning-fuse.adoc[tags=cards]
 link:cards/learning-fuse.html[more...]
 --
-Learning OpenShift::
+>  Learning OpenShift::
 +
 --
 Integreatly runs on OpenShift. See
@@ -34,7 +37,7 @@ Integreatly runs on OpenShift. See
 
 [cards]
 ====
-Walkthroughs::
+>  Walkthroughs::
 +
 --
 include::walkthroughs.adoc[tags=cards]
@@ -42,7 +45,7 @@ include::walkthroughs.adoc[tags=cards]
 link:walkthroughs.html[more...]
 
 --
-3scale::
+>  Learning 3scale::
 +
 --
 include::cards/3scale.adoc[tags=cards]
@@ -50,12 +53,12 @@ include::cards/3scale.adoc[tags=cards]
 link:cards/3scale.html[more...]
 
 --
-Testimonials::
+>  Identity::
 +
 --
-include::cards/testimonials.adoc[tags=cards]
+include::cards/identity.adoc[tags=cards]
 
-link:cards/testimonials.html[more...]
+link:cards/identity.html[more...]
 
 --
 ====

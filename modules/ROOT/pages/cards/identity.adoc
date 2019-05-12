@@ -1,0 +1,14 @@
+= Identity
+
+// tag::cards[]
+Each Integreatly user has:
+
+* a Fuse Online instance
+* an AMQ Online instance
+* a 3scale account
+* access to a shared xref:launcher.adoc[Launcher]
+// end::cards[]
+
+* access to a shared Fuse Online instance
+* access to a shared AMQ Online instance
+* a gitea instance

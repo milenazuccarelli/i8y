@@ -1,0 +1,56 @@
+include::./_partials/attributes.adoc[]
+:toc:
+:toclevels: 1
+
+= Introduction to Integreatly
+
+
+== About Integreatly
+
+// tag::cards[]
+Integreatly is the project name for Red Hat Managed Integration
+
+// end::cards[]
+See xref:rhmi[].
+
+
+The goal of the Integreatly project is to
+
+* accelerate time to value
+* reduce the operational risk, cost, and effort of building enterprise applications
+* streamline the end-user experience
+
+Specifically, Integreatly leverages:
+
+* OpenShift
+* Fuse Online
+* AMQ Online
+* 3scale
+
+.Solution Explorer
+The solution explorer UI allows a user to navigate to each of the installed services and tools, as well as explore the capabilities of the platform through a number of Solution Patterns (sometimes referred to as walkthroughs).
+
+
+[[rhmi]]
+== Red Hat Managed Integration
+
+
+Red Hat Managed Integration (RHMI) is a product that delivers middleware services and development tools in a hosted, managed environment.
+It is a single-tenant managed service offering based on OpenShift Dedicated for development teams that applies agile integration practices to building, deploying and maintaining microservices-based applications.
+
+NOTE: This section describes the RHMI product, not the Integreatly project.
+
+
+Red Hat managed integration, based on the Integreatly project, is an opinionated installation of a number of independent middleware services and tools into an Openshift Dedicated cluster.  The goal is to streamline the end-user experience, as well as to make the combined platform more straightforward to operate.
+
+
+.Relationship to OSD
+The underlying platform for Red Hat Managed integration is OpenShift Dedicated, and the combined platform is managed by the Red Hat SRE team.
+
+
+
+
+== Training
+
+Currently, there is no training available for Integreatly or RHMI. However, training courses in OpenShift for development, Fuse, 3scale, AMQ, Red Hat Runtimes, and Codeready Workspaces are relevant.
+

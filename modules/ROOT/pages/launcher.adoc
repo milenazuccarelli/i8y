@@ -1,0 +1,8 @@
+= Developer Launcher
+
+Typically, developers know Launcher from https://launch.openshift.io
+However, Integreatly includes an instance of Launcher running in your cluster. 
+
+image::launcher.png[width=50%]
+
+NOTE: If you launch a Fuse runtime, it will not be shared automatically.
