@@ -7,8 +7,19 @@ Each Integreatly user has:
 * an AMQ Online instance
 * a 3scale account
 * access to a shared xref:launcher.adoc[Launcher]
+* CodeReady Workspaces (che)
 // end::cards[]
 
 * access to a shared Fuse Online instance
-* access to a shared AMQ Online instance
+* a Apicurito instance
 * a gitea instance
+
+Everything is protected by a single RHSSO instance.
+
+The RHSSO instance comes configured with the following realms:
+
+* openshift - users who develop solutions using the Red Hat applications available from the Solution Explorer
+* customer-applications - end users of the solutions developed by the users in the openshift realm (only in RHMI)
+
+With RMMI, the `customer-admin` user has the `dedicated-admin` role.
+In some Integreatly configurations, you have the `cluster-admin` role.

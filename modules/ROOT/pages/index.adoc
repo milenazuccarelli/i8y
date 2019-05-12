@@ -26,9 +26,12 @@ Integreatly runs on OpenShift. See
 
 * link:https://www.openshift.com/learn/get-started/[Getting Started]
 * link:https://docs.openshift.com/[Documentation]
+
+video::2SNfQpr3FiE[youtube]
 --
 ====
 
+{nbsp}
 {nbsp}
 {nbsp}
 {nbsp}
@@ -59,6 +62,42 @@ link:cards/3scale.html[more...]
 include::cards/identity.adoc[tags=cards]
 
 link:cards/identity.html[more...]
+
+--
+====
+
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+
+
+
+[cards]
+====
+>  Integreatly 1.4::
++
+--
+include::cards/i8-next.adoc[tags=cards]
+
+link:cards/i8-next.html[more...]
+
+--
+>  Learning AMQ::
++
+--
+include::cards/amq.adoc[tags=cards]
+
+link:cards/amq.html[more...]
+
+--
+>  Testimonials::
++
+--
+include::cards/testimonials.adoc[tags=cards]
+
+link:cards/testimonials.html[more...]
 
 --
 ====

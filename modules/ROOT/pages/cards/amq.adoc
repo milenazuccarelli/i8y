@@ -1,0 +1,13 @@
+include::../_partials/attributes.adoc[]
+:toc:
+:toclevels: 1
+
+= AMQ Online (EnMasse)
+
+// tag::cards[]
+AMQ Online allows you provision messaging when and where they need it through a browser console.
+
+video::P1RcYH6CuQI[youtube]
+
+// end::cards[]
+
