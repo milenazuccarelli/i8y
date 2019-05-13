@@ -7,7 +7,7 @@ include::../_partials/attributes.adoc[]
 // tag::cards[]
 Learn about API management.
 
-//video::kBBBhpKIv9I[youtube]
+video::kBBBhpKIv9I[youtube]
 // end::cards[]
 
 

@@ -10,7 +10,7 @@ include::_partials/attributes.adoc[]
 >  What is Integreatly::
 +
 --
-include::introduction.adoc[tags=cards]
+include::integration/master.adoc[tags=cards]
 link:introduction.html[more...]
 --
 >  Learning Fuse::
@@ -31,12 +31,7 @@ video::2SNfQpr3FiE[youtube]
 --
 ====
 
-{nbsp}
-{nbsp}
-{nbsp}
-{nbsp}
-{nbsp}
-
++++<br><br><br><br><br><br><br><br><br><br><br><br>+++
 
 [cards]
 ====

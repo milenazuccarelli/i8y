@@ -1,0 +1,27 @@
+include::attributes.adoc[]
+
+= Release Notes
+
+== What is Red Hat Integration?
+
+Red Hat Integration is a unified platform for cloud-native integration and application development with end-to-end API lifecycle support.
+It provides a set of agile and flexible integration and messaging technologies that include:
+
+// tag::cards[]
+* API connectivity
+* Data transformation
+* Service composition and orchestration
+* Real-time messaging
+//* Cross-datacenter message streaming
+* API management
+
+// end::cards[]
+
+Red Hat Integration connects applications, data, and devices across hybrid cloud architectures and delivers API-centric business services.
+
+== What’s new in Red Hat Integration?
+For details on what’s new in Red Hat Integration as of April 2019:
+
+* https://access.redhat.com/documentation/en-us/red_hat_fuse/7.3/html-single/release_notes/[Red Hat Fuse 7.3 Release Notes]
+* https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.5/html-single/release_information/index[Red Hat 3scale API Management 2.5 Release Information]
+* https://access.redhat.com/documentation/en-us/red_hat_amq/[Red Hat AMQ 7.3 Product Documentation]
