@@ -1,5 +1,5 @@
 = Testimonials
 
 // tag::cards[]
-"With Integreatly, I got the solution working in a day.
+"With Integreatly, I got the solution working in a day."
 // end::cards[]

@@ -2,7 +2,6 @@ runtime:
   cache_dir: ./.cache/antora
 site:
   title: Integreatly
-  url: http://www.scalecomputing.org
   start_page: arotna::index 
 content:
   sources:
@@ -10,7 +9,7 @@ content:
     branches: HEAD
 ui:
   bundle:
-    url: ./ui-bundle.zip
+    url: ../i8y-ui-bundle/build/ui-bundle.zip
     snapshot: true
 
 asciidoc:

@@ -1,0 +1,7 @@
+// tag::cards[]
++++<div id="start" style="width: 80%; text-align: center; margin: 0 auto; padding-bottom: 2rem;">+++
+Integreatly provides a unified experience of Red Hat’s agile integration technology products on OpenShift. 
+
+image::eight.png[Integreatly]
++++</div>+++
+// end::cards[]

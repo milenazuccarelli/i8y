@@ -1,104 +1,80 @@
+:page-layout: home
 // start {partialsdir}/attributes.adoc[]
 include::_partials/attributes.adoc[]
 // end {partialsdir}/attributes.adoc[]
 
 
-= Home
+= What is integreatly
+
+include::cards/home.adoc[tags=cards]
 
 [cards]
 ====
->  What is Integreatly::
-+
+What is Integreatly::
 --
 include::integration/master.adoc[tags=cards]
-link:introduction.html[more...]
+link:introduction.html[Learn more →, role="more"]
 --
->  Learning Fuse::
+Learning Fuse::
 +
 --
 include::cards/learning-fuse.adoc[tags=cards]
-link:cards/learning-fuse.html[more...]
+link:cards/learning-fuse.html[Learn more →, role="more"]
 --
->  Learning OpenShift::
+Learning OpenShift::
 +
 --
 Integreatly runs on OpenShift. See
 
 * link:https://www.openshift.com/learn/get-started/[Getting Started]
 * link:https://docs.openshift.com/[Documentation]
-
-video::2SNfQpr3FiE[youtube]
 --
 ====
-
-+++<br><br><br><br><br><br><br><br><br><br><br><br>+++
-
 [cards]
 ====
->  Walkthroughs::
+Walkthroughs::
 +
 --
 include::walkthroughs.adoc[tags=cards]
 
-link:walkthroughs.html[more...]
-
+link:walkthroughs.html[Learn more →, role="more"]
 --
->  Learning 3scale::
+Learning 3scale::
 +
 --
 include::cards/3scale.adoc[tags=cards]
 
-link:cards/3scale.html[more...]
-
+link:cards/3scale.html[Learn more →, role="more"]
 --
->  Identity::
+Identity::
 +
 --
 include::cards/identity.adoc[tags=cards]
 
-link:cards/identity.html[more...]
-
+link:cards/identity.html[Learn more →, role="more"]
 --
 ====
-
-{nbsp}
-{nbsp}
-{nbsp}
-{nbsp}
-{nbsp}
-
-
-
 [cards]
 ====
->  Integreatly 1.4::
+Integreatly 1.4::
 +
 --
 include::cards/i8-next.adoc[tags=cards]
 
-link:cards/i8-next.html[more...]
-
+link:cards/i8-next.html[Learn more →, role="more"]
 --
->  Learning AMQ::
+Learning AMQ::
 +
 --
 include::cards/amq.adoc[tags=cards]
 
-link:cards/amq.html[more...]
-
+link:cards/amq.html[Learn more →, role="more"]
 --
->  Testimonials::
+Testimonials::
 +
 --
 include::cards/testimonials.adoc[tags=cards]
 
-link:cards/testimonials.html[more...]
-
+link:cards/testimonials.html[Learn more →, role="more"]
 --
 ====
-
-{nbsp}
-{nbsp}
-{nbsp}
-{nbsp}
-

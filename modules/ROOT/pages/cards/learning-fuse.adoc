@@ -4,7 +4,6 @@ include::../_partials/attributes.adoc[]
 
 // tag::cards[]
 Integreatly includes Fuse Online.
-
 // end::cards[]
 
 
@@ -13,11 +12,6 @@ Fuse allows you develop with the following:
 * link:https://access.redhat.com/announcements/4097241[Announcement]
 * link:https://access.redhat.com/announcements/3557011[Finding docs]
 * link:https://access.redhat.com/documentation/en-us/red_hat_fuse/7.3/html-single/release_notes/[Release Notes]
-
-
-/// tag::cards[]
-video::B_mJ_ejFDMs[youtube]
-/// end::cards[]
 
 
 
