@@ -9,7 +9,7 @@ content:
     branches: HEAD
 ui:
   bundle:
-    url: ../i8y-ui-bundle/build/ui-bundle.zip
+    url: https://github.com/milenazuccarelli/i8y-ui-bundle/blob/master/build/ui-bundle.zip?raw=true
     snapshot: true
 
 asciidoc:
