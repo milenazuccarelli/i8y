@@ -4,6 +4,10 @@ Install Antora in the project directory:
 
  $ npm i @antora/cli@2.0
 
-Then run: 
+Run the playbook to build the site: 
 
  $ antora antora-site.yml
+
+Switch into the site folder and open the `index.html` file
+
+ $ cd build/site/ && open index.html
