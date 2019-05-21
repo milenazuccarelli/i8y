@@ -1,2 +1,9 @@
 = Integreatly community site
 
+Install Antora in the project directory:
+
+ $ npm i @antora/cli@2.0
+
+Then run: 
+
+ $ antora antora-site.yml
