@@ -11,6 +11,7 @@ include::cards/home.adoc[tags=cards]
 [cards]
 ====
 What is Integreatly::
++
 --
 include::integration/master.adoc[tags=cards]
 link:introduction.html[Learn more →, role="more"]
@@ -78,3 +79,5 @@ include::cards/testimonials.adoc[tags=cards]
 link:cards/testimonials.html[Learn more →, role="more"]
 --
 ====
+
+include::cards/footer.adoc[tags=cards]
