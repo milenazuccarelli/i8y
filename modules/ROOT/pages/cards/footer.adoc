@@ -1,11 +1,11 @@
 // tag::cards[]
-[role="solution"]
+[role="feat solution"]
 --
 [role="feat-title"]
 Some fancy catchphrase about the Solution Explorer and how it will solve all your problems
 
 Single web-based user interface that provides access to an opinionated integration solution offering automated provisioning, single sign-on and pre-configured solution patterns. 
 
-link:cards/amq.html[Learn more →, role="more"]
+link:walkthroughs.html[Learn more →, role="more"]
 --
 // end::cards[]
