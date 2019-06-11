@@ -1,6 +1,6 @@
-name: arotna
+name: docs
 title: Integreatly
 version: master
-start_ROOT: ROOT:index.adoc
+start_ROOT: ROOT:getting-started.adoc
 nav:
 - modules/ROOT/nav.adoc

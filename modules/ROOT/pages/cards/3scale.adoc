@@ -5,7 +5,7 @@ include::../_partials/attributes.adoc[]
 = 3scale API management
 
 // tag::cards[]
-Learn about API management.
+Learn about API management. {three-scale-name}
 // end::cards[]
 
 

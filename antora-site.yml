@@ -1,22 +1,21 @@
 runtime:
-  cache_dir: ./.cache/antora
+  cache_dir: ./.cache/docs
 site:
   title: Integreatly
-  start_page: arotna::index 
+  start_page: docs::getting-started.adoc
 content:
   sources:
   - url: .
     branches: HEAD
 ui:
   bundle:
-    url: https://github.com/milenazuccarelli/i8y-ui-bundle/blob/master/build/ui-bundle.zip?raw=true
+    url: ../i8y-ui-bundle/build/ui-bundle.zip
     snapshot: true
 
 asciidoc:
   extensions:
   - ./lib/tab-block.js
   - ./lib/remote-include-processor
-  - ./lib/card-block.js
 
   attributes:
     experimental: ''
