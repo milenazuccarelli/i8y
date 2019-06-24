@@ -2,7 +2,6 @@ runtime:
   cache_dir: ./.cache/docs
 site:
   title: Integreatly
-  start_page: docs::getting-started.adoc
 content:
   sources:
   - url: .

@@ -1,6 +1,6 @@
 name: docs
 title: Integreatly
 version: master
-start_ROOT: ROOT:getting-started.adoc
+start_ROOT: docs::getting-started.adoc
 nav:
 - modules/ROOT/nav.adoc

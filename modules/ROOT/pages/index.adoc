@@ -1,0 +1,9 @@
+include::./_partials/attributes.adoc[]
+:toc:
+:toclevels: 1
+
+= Introduction to Documentation
+
+Publish docs from https://integr8ly.github.io/user-documentation/
+
+
